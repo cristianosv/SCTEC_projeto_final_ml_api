@@ -1,0 +1,17 @@
+{
+    "model": "LogisticRegression",
+    "dataset": "Iris",
+    "random_state": 42,
+    "validation_metrics": {
+        "accuracy": 0.8636363636363636,
+        "precision_macro": 0.8611111111111112,
+        "recall_macro": 0.8571428571428572,
+        "f1_macro": 0.8564102564102565
+    },
+    "test_metrics": {
+        "accuracy": 0.9565217391304348,
+        "precision_macro": 0.9629629629629629,
+        "recall_macro": 0.9583333333333334,
+        "f1_macro": 0.9581699346405229
+    }
+}
